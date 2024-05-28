@@ -1,0 +1,3 @@
+diffusers
+diffusers[torch]
+torch
